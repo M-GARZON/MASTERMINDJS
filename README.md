@@ -1,6 +1,6 @@
 # 🌟 Bienvenido a Mastermind 🌟
 
-¡Te damos la bienvenida al juego de Mastermind, donde tu ingenio y habilidades para descifrar combinaciones de colores serán puestas a prueba! 🎨
+¡Te doy la bienvenida al juego de Mastermind, donde tu ingenio y habilidades para descifrar combinaciones de colores serán puestas a prueba! 🎨
 
 ## ℹ️ Acerca del Juego
 
@@ -9,11 +9,11 @@ Mastermind es un juego clásico de mesa donde tienes que adivinar una combinaci�
 ## 🎮 Instrucciones
 
 1. Abre el archivo `index.html` en tu navegador web.
-2. Selecciona tu combinación de colores haciendo clic en los círculos de colores disponibles.
+2. Selecciona tu combinación de colores haciendo clic en los cuadrados de colores disponibles.
 3. Una vez que hayas seleccionado tu combinación, haz clic en el botón "Comprobar" para verificar tu intento.
 4. Los círculos negros indican colores que están en la combinación secreta y en la posición correcta.
 5. Los círculos blancos indican colores que están en la combinación secreta, pero en una posición incorrecta.
-6. ¡Intenta descifrar la combinación secreta antes de agotar tus 10 intentos!
+6. ¡Intenta descifrar la combinación secreta antes de agotar tus 10 intentos, mucha suerte!
 
 ## 🌈 Características Destacadas
 
